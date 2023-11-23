@@ -67,9 +67,3 @@ pip install -r requirement.txt
 
 ### About Auto-Encoders
 Tutorial: https://www.youtube.com/watch?v=qiUEgSCyY5o&ab_channel=IBMTechnology
-
-
-```python
-
-```
-
